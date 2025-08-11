@@ -69,6 +69,6 @@ Publishing dashboards for stakeholder review
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/HR_Dashboard/blob/main/HR%20Dashboard%20snapshot.png)
 
 
