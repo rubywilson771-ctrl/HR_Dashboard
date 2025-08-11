@@ -67,4 +67,8 @@ Building interactive visualizations and KPI summaries in Tableau Desktop
 
 Publishing dashboards for stakeholder review
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Dashboard Screenshot]()
+
 
