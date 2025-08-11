@@ -36,3 +36,35 @@ Performance      :    Higher qualifications (Master’s & PhD) show stronger per
 Salary by Education & Gender    :   Clear upward salary trend with higher education levels; PhD holders average $93K
 
 Age vs Salary Scatterplot       :   Senior managerial roles align with higher salaries and older age groups
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+**💡 Key Takeaways**
+
+Retention Strategy Needed  : Tracking termination trends can guide targeted retention policies
+
+Upskilling Opportunities   : Focused training for employees with lower qualifications may boost performance
+
+Balanced Gender Diversity  : Gender distribution is equitable across most departments
+
+Role & Education 
+Impact on Pay              : Strong salary correlation with education and job level
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+**🛠 Tools & Process**
+
+Tool       : Tableau
+
+Data Source: HR dataset (employee records, demographics, performance, salary)
+
+Process  :
+
+Data cleaning and structuring in Tableau Prep
+
+Building interactive visualizations and KPI summaries in Tableau Desktop
+
+Publishing dashboards for stakeholder review
+
+
